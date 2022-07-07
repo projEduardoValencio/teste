@@ -1,5 +1,6 @@
 def main():
     print("Hello World")
-    sum(1,2)
+    b = sum(1,2)
+    print(b)
 
 main()
